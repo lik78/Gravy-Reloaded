@@ -28,11 +28,12 @@ python Gravy.py
 
 ### Proxy
 All bots pass through HTTPS/HTTP, SOCKS4 or SOCKS5 proxies (see proxies.txt)
+
 I will update every week with at least 2500 new HTTP/HTTPS proxies on the github page
-I'm a brazillian creator, so the program is translated in portuguese actually, but I'll
+I'm a brazillian creator, so the program is translated in portuguese currently, but I'll
 add english and other languages as the time pass by, feel free to help me translating
 to your language 
-- Blantyre (@wowves2)
+- lik78 (@wowves2)
 
 
 
