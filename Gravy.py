@@ -2,10 +2,7 @@ from SyncPrint import *
 import gravylib, socks, time, random, threading, string, ProxyManager, sys, binascii, time
 print '--==[ Gravy ]==--'
 print
-print
 print 'Versoes suportadas:'
-print
-print
 print '[0] 1.5.2'				
 print '[1] 1.6.1'				
 print '[2] 1.6.2'				
@@ -30,7 +27,9 @@ print '[20] 1.14'
 print '[21] 1.14.1'		
 print '[22] 1.14.2'			
 print '[23] 1.14.3'			
-print '[24] 1.14.4'			
+print '[24] 1.14.4'	
+print '[25] 1.15'
+print '[26] 1.15.1'		
 print
 proto = input('Selecione uma versao: ')
 
@@ -107,6 +106,12 @@ elif proto == 23:
 
 elif proto == 24:
 	protonum = 498
+
+elif proto == 25:
+    protonum = 573
+
+elif proto == 26:
+    protonum = 575
 
 else:
     synckill('\n[!] Opcao invalida!')
