@@ -33,7 +33,7 @@ I will update every week with at least 2500 new HTTP/HTTPS proxies on the github
 I'm a brazillian creator, so the program is translated in portuguese currently, but I'll
 add english and other languages as the time pass by, feel free to help me translating
 to your language 
-- lik78 (@wjisoollights)
+- lik78 (@jisoollights)
 
 
 
@@ -43,6 +43,6 @@ to your language
 Feel free to contact us for help or anything else
 
 Or contact the current developer:
-[@wjisoollights] (https://twitter.com/jisoollights)
+[@jisoollights] (https://twitter.com/jisoollights)
 
 
