@@ -31,6 +31,10 @@ print '[24] 1.14.4'
 print '[25] 1.15'
 print '[26] 1.15.1'
 print '[27] 1.15.2'
+print '[28] 1.16'
+print '[29] 1.16.1'
+print '[30] 1.16.2'
+print '[31] 1.16.3'
 print
 proto = input('Selecione uma versao: ')
 
@@ -116,6 +120,18 @@ elif proto == 26:
 
 elif proto == 27:
     protonum = 578
+
+elif proto == 28:
+    protonum = 735
+
+elif proto == 29:
+    protonum = 736
+
+elif proto == 30:
+    protonum = 751
+
+elif proto == 31:
+    protonum = 753
 else:
     synckill('\n[!] Opcao invalida!')
 
