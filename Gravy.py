@@ -35,25 +35,26 @@ print '[28] 1.16'
 print '[29] 1.16.1'
 print '[30] 1.16.2'
 print '[31] 1.16.3'
+print '[32] 1.16.4'
 print
 proto = input('Selecione uma versao: ')
 
 if proto == 0:
-    protonum = 61
+	protonum = 61
 elif proto == 1:
-    protonum = 73
+	protonum = 73
 	
 elif proto == 2:
-    protonum = 74
+	protonum = 74
 	
 elif proto == 3:
-    protonum = 78
+	protonum = 78
 	
 elif proto == 4:
-    protonum = 4
+	protonum = 4
 	
 elif proto == 5:
-    protonum = 5
+	protonum = 5
 	
 elif proto == 6:
 	protonum = 47
@@ -113,27 +114,30 @@ elif proto == 24:
 	protonum = 498
 
 elif proto == 25:
-    protonum = 573
+    	protonum = 573
 
 elif proto == 26:
-    protonum = 575
+    	protonum = 575
 
 elif proto == 27:
-    protonum = 578
+    	protonum = 578
 
 elif proto == 28:
-    protonum = 735
+    	protonum = 735
 
 elif proto == 29:
-    protonum = 736
+    	protonum = 736
 
 elif proto == 30:
-    protonum = 751
+    	protonum = 751
 
 elif proto == 31:
-    protonum = 753
+    	protonum = 753
+
+elif proto == 32:
+	protonum = 754
 else:
-    synckill('\n[!] Opcao invalida!')
+    	synckill('\n[!] Opcao invalida!')
 
 target = raw_input('IP: ')
 threads = input('Quantidade de threads: ')
